@@ -29,3 +29,14 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+--------------
+
+#Deploy
+
+## setug guide
+https://cli.vuejs.org/guide/deployment.html
+## Run deploy
+
+chmod +x deploy.sh
+./deploy.sh
