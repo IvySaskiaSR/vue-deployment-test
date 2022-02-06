@@ -21,7 +21,7 @@ git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 # git push -f https://github.com/IvySaskiaSR/vue-deployment-test.git main:main
-git push -f git@github.com:IvySaskiaSR/vue-deployment-test.git main:deploy
+git push -f git@github.com:IvySaskiaSR/vue-deployment-test.git master:deploy
 
 
 cd -
